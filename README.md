@@ -64,7 +64,7 @@ Squash & Merge
 
 스터디 진행 상황은 GitHub Project를 통해 관리합니다.
 
-**Project에는 PR만 등록합니다.**
+**Project에는 Issue에 PR을 연결합니다**
 
 ### Status
 
@@ -74,8 +74,7 @@ Squash & Merge
 | 👀 문제풀이 완료  | 문제 풀고 PR 작성 완료 |
 | ✅ 리뷰 완료    | 리뷰 및 토론 완료 후 Merge        |
 
-> 문제를 풀기 전 단계는 Project에서 관리하지 않습니다.
-> PR을 생성한 시점부터 Project에서 관리합니다.
+> Issue를 생성한 시점부터 Project에서 관리합니다.
 
 ---
 
@@ -244,7 +243,7 @@ solution.cpp
 8. 핵심적인 리뷰 내용은 PR Review에 기록합니다.
 9. 작성자를 제외한 스터디원 최소 1명의 Approve를 받습니다.
 10. Approve 후 `Squash and merge`합니다.
-11. Merge가 완료되면 Project 상태를 `리뷰 완료`로 변경합니다.
+11. Merge가 완료되면 Project 상태가 `리뷰 완료`로 변경됩니다.
 12. 서로의 풀이와 의견을 존중하며 적극적으로 질문하고 의견을 공유합니다.
 
 ---
